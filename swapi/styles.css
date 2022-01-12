@@ -1,3 +1,18 @@
 body {
   background-color: lightgrey;
 }
+
+.info-here {
+  width: 200px;
+  height: 200px;
+  background-color: white;
+  border: 1px solid black;
+  margin-top: 20px;
+  padding: 10px;
+  background-image: url("https://icdn.digitaltrends.com/image/digitaltrends/ditto-pokemon-go.jpg");
+  background-size: cover;
+  color: white;
+  font-weight: 500;
+  letter-spacing: 1px;
+  font-size: 20px;
+}
